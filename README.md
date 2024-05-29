@@ -19,7 +19,7 @@ Quizzy is an interactive quiz application designed to provide an engaging trivia
 
 1. **Clone the Repository:**
     ```bash
-    git clone https://github.com/your-username/quizzy.git
+    git clone https://github.com/DevAkhil/Quiz-App.git
     cd quizzy
     ```
 
