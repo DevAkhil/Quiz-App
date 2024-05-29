@@ -3,7 +3,7 @@
 ### Overview:
 Quizzy is an interactive quiz application designed to provide an engaging trivia experience. Built using React for the frontend and TypeScript for robust type-checking, it leverages the Open Trivia DB API to fetch a diverse range of quiz questions.
 
-[Try it out here](https://quizzybyakhil.netlify.app/))
+[Try it out here](https://quizzybyakhil.netlify.app/)
 
 ### Requirements:
 - [Node.js](https://nodejs.org/)
@@ -14,7 +14,7 @@ Quizzy is an interactive quiz application designed to provide an engaging trivia
 [![Quizzy Demo](https://i.imgur.com/5iAD2Q8.png)](https://www.youtube.com/watch?v=ZtKz_9sDDY0)
 
 [Watch a demo of Quizzy in action on YouTube.](https://www.youtube.com/watch?v=ZtKz_9sDDY0)
-[Try it out here](https://quizzybyakhil.netlify.app/))
+[Try it out here](https://quizzybyakhil.netlify.app/)
 ### Installation:
 
 1. **Clone the Repository:**
