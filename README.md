@@ -20,13 +20,13 @@ Quizzy is an interactive quiz application designed to provide an engaging trivia
 1. **Clone the Repository:**
     ```bash
     git clone https://github.com/DevAkhil/Quiz-App.git
-    cd quizzy
+    cd Quiz-App
     ```
 
 2. **Setup and Install Dependencies:**
     - Open a terminal and navigate to the project directory:
         ```bash
-        cd quizzy
+        cd Quiz-App
         ```
     - Install the necessary dependencies:
         ```bash
