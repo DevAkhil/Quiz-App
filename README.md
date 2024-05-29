@@ -1,4 +1,4 @@
-# Quizzy - Quiz App
+# Quizzy - Quiz App - React
 
 ### Overview:
 Quizzy is an interactive quiz application designed to provide an engaging trivia experience. Built using React for the frontend and TypeScript for robust type-checking, it leverages the Open Trivia DB API to fetch a diverse range of quiz questions.
