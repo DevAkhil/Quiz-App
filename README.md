@@ -38,7 +38,7 @@ Quizzy is an interactive quiz application designed to provide an engaging trivia
         ```
 
 4. **Access the Application:**
-    - Once the development server is running, you can access the application by navigating to `http://localhost:3000` in your web browser.
+    - Once the development server is running, you can access the application by navigating to `http://localhost:5173` in your web browser.
 
 ### Usage:
 - The React frontend provides a user interface to interact with the trivia questions fetched from the Open Trivia DB API.
