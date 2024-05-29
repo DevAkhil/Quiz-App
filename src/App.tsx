@@ -1,4 +1,3 @@
-import { useState } from "react";
 
 import "./App.css";
 import QuestionContainer from "./components/QuestionContainer/QuestionContainer";
