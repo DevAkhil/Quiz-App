@@ -1,0 +1,19 @@
+.container-card{
+    height: 100vh;
+    width:  100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  
+  .custom-card{
+    padding-top: 75px;
+    padding-bottom: 75px;
+    height: 80%;
+    width: 80%;
+    background-color: #08112d;
+    border-radius: 10px;
+  
+  }
+
